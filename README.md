@@ -14,7 +14,6 @@ Every problem is added as a separate section inside `solution.ipynb`, following 
 ```markdown
 ## [Problem No]. Problem Title
 
-```python
 # Solution code
 ```
 ```
@@ -23,7 +22,6 @@ Every problem is added as a separate section inside `solution.ipynb`, following 
 
 ## 1. Two Sum
 
-```python
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
         seen = {}
